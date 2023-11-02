@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Contributor to OpenTelmetry where I consistently contribute to [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) and occasionally to [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+- 🔭 Maintainer for [Splunk Connect for Kafka](https://github.com/splunk/kafka-connect-splunk), [Splunk Nozzle for VMWare Tanzu](https://github.com/cloudfoundry-community/splunk-firehose-nozzle), [Splunk Connect for Kubernetes](https://github.com/splunk/splunk-connect-for-kubernetes)
+- 🌱 I’m currently learning Blockchain and Smart Contracts, DeFi.
+- 👯 I’m looking to collaborate on distributed systems, backend development.
+- 💬 Ask me about investing 😄
+- 📫 How to reach me: Drop me an [e-mail](mailto:makvihas@gmail.com) or reach out to me on [Linkedin](https://www.linkedin.com/in/makvihas/)!

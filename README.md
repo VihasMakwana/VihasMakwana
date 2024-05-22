@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Contributor at OpenTelmetry where I contribute to [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) and occasionally to [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-- 🔭 Maintainer for [Splunk Connect for Kafka](https://github.com/splunk/kafka-connect-splunk), [Splunk Nozzle for VMWare Tanzu](https://github.com/cloudfoundry-community/splunk-firehose-nozzle), [Splunk Connect for Kubernetes](https://github.com/splunk/splunk-connect-for-kubernetes)
 - 🔭 Contributor at [Meshery](https://github.com/meshery/meshery/)
 - 👯 I’m looking to collaborate on distributed systems, backend development, cloud-native solutions.
 - 💬 Ask me about investing 😄

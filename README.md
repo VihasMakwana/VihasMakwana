@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Contributor at OpenTelmetry where I contribute to [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) and occasionally to [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-- 🔭 Contributor at [Meshery](https://github.com/meshery/meshery/)
 - 👯 I’m looking to collaborate on distributed systems, backend development, cloud-native solutions.
 - 💬 Ask me about investing 😄
 - 📫 How to reach me: Drop me an [e-mail](mailto:makvihas@gmail.com) or reach out to me on [Linkedin](https://www.linkedin.com/in/makvihas/)!

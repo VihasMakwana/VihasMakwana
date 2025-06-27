@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on distributed systems, backend development, cloud-native solutions.
 - 💬 Ask me about investing 😄
 - 📫 How to reach me: Drop me an [e-mail](mailto:makvihas@gmail.com) or reach out to me on [Linkedin](https://www.linkedin.com/in/makvihas/)!
+- I love reading about finance and investing in general. I suggest you make use of online calculators like [finzguru](https://finzguru.com/list) or https://groww.in/calculators.
